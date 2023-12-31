@@ -1,6 +1,6 @@
 # Hi there, I'm Kaoutar Taki! 👋
 
-<img src='https://storyset.com/illustration/profile-data/pana'/>
+<img src='./Profile data-pana.svg'/>
 ## About Me
 
 I'm a passionate Full Stack Developer based in Morocco, Marrakesh. My journey in the world of coding has been exciting, and I love turning ideas into functional and elegant solutions.
