@@ -1,8 +1,9 @@
 # Hi there, I'm Kaoutar Taki! 👋
 
+<img src='https://storyset.com/illustration/profile-data/pana'/>
 ## About Me
 
-I'm a passionate Full Stack Developer based in Morocco Marrakesh. My journey in the world of coding has been exciting, and I love turning ideas into functional and elegant solutions.
+I'm a passionate Full Stack Developer based in Morocco, Marrakesh. My journey in the world of coding has been exciting, and I love turning ideas into functional and elegant solutions.
 
 ## 🔧 Skills
 
@@ -20,7 +21,7 @@ I'm currently focused on learning and improving my skills in GraphQL and enhanci
 
 ## 📫 Contact Me
 
-- LinkedIn: https://www.linkedin.com/in/kaoutar-taki/
+- LinkedIn: [Kaoutar Taki](https://www.linkedin.com/in/kaoutar-taki/)
 - Email: takikaoutar01@gmail.com
 
 ## 💬 Let's Connect
