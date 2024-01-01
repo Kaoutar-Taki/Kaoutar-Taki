@@ -1,6 +1,6 @@
 # Hi there, I'm Kaoutar Taki! 👋
 
-<img src='Profile data-pana.svg' />
+<img src='Profile data-pana.svg'  width='600px'/>
 
 ## About Me
 
