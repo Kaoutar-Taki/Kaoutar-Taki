@@ -1,102 +1,84 @@
-<h1 align="center">Hi, I'm Kaoutar Taki 👋</h1>
-<h3 align="center">Full-Stack Developer & Angular Coach from Morocco 🇲🇦</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Angular+Coach+%40+JobInTech;React+%E2%80%A2+Angular+%E2%80%A2+Next.js+%E2%80%A2+Laravel" alt="Typing SVG" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:A855F7,100:06B6D4&height=180&section=header&text=Kaoutar%20Taki&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Angular%20Coach&descSize=18&descAlignY=60" alt="Kaoutar Taki profile header" />
+
+<br />
+
+<h2>Hi, I'm Kaoutar Taki</h2>
+
+<p>
+  Full-Stack Developer from Morocco, passionate about building modern, responsive,
+  and user-friendly web applications.
+</p>
+
+<p>
+  I work with both front-end and back-end technologies to create clean interfaces,
+  scalable features, and practical digital solutions.
+</p>
+
+<p>
+  Alongside development, I coach future front-end developers in Angular,
+  helping them understand core concepts, build real-world projects,
+  and grow with confidence.
+</p>
+
+<br />
+
+<a href="https://www.linkedin.com/in/kaoutar-taki">
+  <img src="https://img.shields.io/badge/LinkedIn-Kaoutar%20Taki-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile" />
+</a>
+
+</div>
+
+---
+
+### About Me
+
+```ts
+const kaoutar = {
+  role: "Full-Stack Developer",
+  also: "Angular Coach",
+  location: "Morocco",
+  focus: ["Web Applications", "Clean UI", "API Integration", "Responsive Design"],
+  mindset: "Build simple, useful and maintainable digital products",
+};
+```
+
+---
+
+### Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,nextjs,tailwind,bootstrap,php,laravel,nodejs,mysql,mongodb,git,github,gitlab,postman,figma,vscode&perline=10&theme=dark" alt="Tech stack icons" />
 </p>
 
 ---
 
-### 🚀 About Me
+### What I Do
 
-I build modern, responsive, and scalable web applications using **React, Angular, Next.js, TypeScript, Laravel, and Tailwind CSS**.
-
-Currently, I'm coaching future front-end developers in **Angular** through the **JobInTech program at Algorium Academy**, helping learners build real-world projects and improve their technical skills.
-
-- 🔭 Building modern UI dashboards and full-stack projects
-- 🌱 Creating educational content about web development
-- 👯 Coaching learners in Angular and front-end development
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/kaoutar-taki)**
-- 📍 Based in **Morocco**
+- Build responsive websites and web applications
+- Develop clean and reusable front-end components
+- Work on back-end features and API integration
+- Improve user interfaces and user experience
+- Coach learners in Angular and front-end development
 
 ---
 
-### 🛠️ Tech Stack
+### Currently Focused On
 
-**Frontend**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-**Backend**
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-**Tools**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+- Building stronger full-stack skills
+- Creating clean and modern web interfaces
+- Improving my Angular coaching experience
+- Learning, building, and sharing knowledge
 
 ---
 
-### 💼 What I Do
+<div align="center">
 
-- 🌐 Build modern websites and web applications
-- 📊 Develop responsive dashboards and landing pages
-- 🧩 Create clean and reusable front-end components
-- 🔌 Integrate APIs and manage dynamic data
-- ⚡ Improve UI/UX and web performance
-- 🎓 Coach learners in Angular and front-end development
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=2800&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Angular+Coach;Building+clean+and+modern+web+apps" alt="Typing animation" />
 
----
+<br /><br />
 
-### 🔭 Currently Working On
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,50:A855F7,100:0F172A&height=100&section=footer" alt="Footer wave" />
 
-- Improving my full-stack projects
-- Building modern UI dashboards
-- Creating educational content about web development
-- Coaching learners in Angular and front-end development
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kaoutar-Taki&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaoutar-Taki&layout=compact&theme=tokyonight" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaoutar-Taki&theme=tokyonight" alt="GitHub Streak" />
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/kaoutar-taki" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Kaoutar-Taki&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
-</p>
-
-<p align="center">⭐️ Thanks for visiting my profile! ⭐️</p>
+</div>
