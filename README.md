@@ -9,12 +9,10 @@ I build thoughtful web experiences and help future developers grow.
 Marrakech, Morocco · Open to Remote & Freelance Opportunities
 
 
-
   
   
 
 </div>
-
 
 
 ## 👩‍💻 About Me
@@ -28,6 +26,7 @@ Marrakech, Morocco · Open to Remote & Freelance Opportunities
 - I coach learners in Angular and front-end development.
     
 - I enjoy transforming ideas into simple and useful digital experiences.
+    
 
 
 ## 🧰 Technologies
@@ -35,7 +34,6 @@ Marrakech, Morocco · Open to Remote & Freelance Opportunities
 <p align="center"> <img src="https://skillicons.dev/icons?i=angular,react,nextjs,typescript,javascript,html,css,tailwind,bootstrap" alt="Front-End technologies" /> </p>
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=nodejs,express,laravel,php,mongodb,mysql,git,github,vscode,figma,postman" alt="Back-End technologies and development tools" /> </p>
-
 
 
 ## ✨ A Little More About Me
@@ -46,7 +44,6 @@ Coach by experience.
 Creator by nature.
 Always learning, always building.
 ```
-
 
 
 <div align="center">
